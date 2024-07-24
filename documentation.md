@@ -1,5 +1,5 @@
-```html
-<redoc spec-url="http://petstore.swagger.io/v2/swagger.json"></redoc>
+
+<redoc spec-url="https://raw.githubusercontent.com/open-mpic/open-mpic-specification/main/openapi.yaml"></redoc>
 <script src="https://cdn.redoc.ly/redoc/latest/bundles/redoc.standalone.js"> </script>
-```
+
 
