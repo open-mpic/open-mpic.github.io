@@ -10,7 +10,7 @@ If you are interested in participating in the engineering of Open MPIC, feel fre
 <script>
   window.CommunityInviterAsyncInit = function () {
     CommunityInviter.init({
-      app_url:'open-mpic',
+      app_url:'open-mpic-team',
       team_id:'openmpic'
    })
   };
