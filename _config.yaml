@@ -1,0 +1,19 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+title: Open MPIC Project
+description: Providing open-source implementations of Multi-Perspective Issuance Corroboration for the PKI Community
+url: https://open-mpic.org/
+github:
+  repository_url: https://github.com/open-mpic
+  repository_name: open-mpic.org
