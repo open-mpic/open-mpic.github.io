@@ -36,10 +36,10 @@ This model allows Open MPIC Core to be platform agnostic and be used regardless 
 
 This is a turnkey lambda deployment of Open MPIC using Open MPIC Core. It wraps Open MPIC Core in lambda functions, puts the lambda functions behind an AWS API Gateway and contains Open Tofu deployment scripts to create the system with a single command.
 
-### REST API Deployment (coming soon)
+### REST API Deployment ([https://github.com/open-mpic/open-mpic-containers](https://github.com/open-mpic/open-mpic-containers))
 
-This deployment will be based on a REST API wrapper around Open MPIC Core which will use REST API calls between the remote perspectives.
-This repo will support several platforms from bare compute instances (e.g., EC2) to kubernetes and also offer several turnkey solutions.
+This deployment is based on a REST API wrapper around Open MPIC Core which will uses REST API calls between the remote perspectives.
+This repo has several deployment examples including docker compose running on EC2, kubernetes, and local docker compose (for testing purposes only).
 
 
 # Team
