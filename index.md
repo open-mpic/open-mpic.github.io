@@ -12,6 +12,10 @@ Currently, the project provides:
 - A core library that is environment agnostic
 - Turnkey deployment solutions for CAs to use
 
+## Project Roadmap
+
+The project roadmap detailing project direction and functionality is available [here](/open-mpic-roadmap.pdf).
+
 # API Documentation
 
 ### Take a look at the latest [API documentation here](/documentation.html).
